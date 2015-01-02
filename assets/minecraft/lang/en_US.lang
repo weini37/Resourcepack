@@ -454,7 +454,7 @@ key.left=Strafe Left
 key.back=Walk Backwards
 key.right=Strafe Right
 key.jump=Jump
-key.inventory=Inventory
+key.inventory=Bag of owls
 key.drop=Drop Item
 key.chat=Open Chat
 key.sneak=Sneak
@@ -488,7 +488,7 @@ key.categories.misc=Miscellaneous
 key.categories.multiplayer=Multiplayer
 key.categories.gameplay=Gameplay
 key.categories.ui=Game Interface
-key.categories.inventory=Inventory
+key.categories.inventory=Bag of Owls
 key.categories.stream=Streaming
 
 resourcePack.openFolder=Open resource pack folder
@@ -1098,7 +1098,7 @@ item.horsearmordiamond.name=Diamond Horse Armor
 item.prismarineShard.name=Prismarine Shard
 item.prismarineCrystals.name=Prismarine Crystals
 
-container.inventory=Inventory
+container.inventory=Bag of Owls
 container.hopper=Item Hopper
 container.crafting=Crafting
 container.dispenser=Dispenser
